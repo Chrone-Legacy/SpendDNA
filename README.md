@@ -1,8 +1,8 @@
-# SpendDNA: UPI Transaction Analytics Engine 🧬
+# SpendDNA: UPI Transaction Analytics Engine 
 
 > A Python-based financial analytics pipeline that transforms raw, unstructured bank export data into a clean, behavioral "Spotify Wrapped" for personal finances. 
 
-![SpendDNA Final Report Screenshot](link-to-your-screenshot-image.png)
+![SpendDNA Final Report Screenshot](Screenshot 2026-07-04 115004.png)
 *(Note: Replace the link above with a screenshot of your final ASCII console report)*
 
 ##  The Problem
