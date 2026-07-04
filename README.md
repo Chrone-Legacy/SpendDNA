@@ -3,7 +3,7 @@
 > A Python-based financial analytics pipeline that transforms raw, unstructured bank export data into a clean, behavioral "Spotify Wrapped" for personal finances. 
 
 ![SpendDNA Final Report Screenshot](Screenshot 2026-07-04 115004.png)
-*(Note: Replace the link above with a screenshot of your final ASCII console report)*
+
 
 ##  The Problem
 Every Indian student opens a UPI app multiple times a day, yet tracking exact spending patterns remains difficult. Real-world fintech data does not arrive clean—it contains mixed date formats, messy currency strings, and vendor names buried under dozens of banking prefixes (e.g., `UPI-SWIGGY-1234@HDFCBANK`).
